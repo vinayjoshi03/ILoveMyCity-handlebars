@@ -1,0 +1,9 @@
+<% include ../partials/header.ejs %>
+    <div class="container">
+        <div class="row">
+            <div class="col-mid-12">
+                <p class="headingfont"><%=heading%></p>
+            </div>
+        </div>
+    </div>
+<% include ../partials/footer.ejs %>
